@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **verma.47@iitj.ac.in**
 
-- ⚡ Fun fact **Inspiration - Ranchoddas chanchad**
+- ⚡ Fun fact : Inspiration - Ranchoddas chanchad :) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
