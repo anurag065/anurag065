@@ -1,3 +1,4 @@
+![logo](https://github.com/anurag065/anurag065/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Anurag Verma</h1>
 <h3 align="center">From Algorithms to Applications | ML/DL & SDE Enthusiast</h3>
 
